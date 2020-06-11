@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/eks-get-token.svg)](https://badge.fury.io/js/eks-get-token)
+
 # EKS-get-token
 Fetch the AWS EKS auth-token for your cluster.
 
