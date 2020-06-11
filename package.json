@@ -1,0 +1,23 @@
+{
+  "name": "eks-get-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPM97/EKS-get-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DPM97/EKS-get-token/issues"
+  },
+  "homepage": "https://github.com/DPM97/EKS-get-token#readme",
+  "dependencies": {
+    "aws4": "^1.10.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
